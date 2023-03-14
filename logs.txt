@@ -1,0 +1,117 @@
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php63D9.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php9C8F.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php2583.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php84A7.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php24DC.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php45A0.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php8496.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Inicio de validacion del archivo
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php906D.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php5AB6.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php9C84.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php79F0.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\php4959.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+Inicio de validacion del archivo
+Fin  de validacion del archivo
+Inicio de obtención de correos
+C:\wamp64\tmp\phpCDDF.tmp
+Fin de obtención de correos
+Inicio lectura del body .html
+Fin lectura del body .html
+2023-03-13 17:51:33Info| Inicio de validacion del archivo
+2023-03-13 17:51:33Info| Fin  de validacion del archivo
+2023-03-13 17:51:33Info| Inicio de obtención de correos
+2023-03-13 17:51:33Info| Fin de obtención de correos
+2023-03-13 17:51:33Info| Inicio lectura del body .html
+2023-03-13 17:51:33Info| Fin lectura del body .html
+2023-03-13 17:52:52Info| Inicio de validacion del archivo
+2023-03-13 17:52:52Info| Fin  de validacion del archivo
+2023-03-13 17:52:52Info| Inicio de obtención de correos
+2023-03-13 17:52:52Info| Fin de obtención de correos
+2023-03-13 17:52:52Info| Inicio lectura del body .html
+2023-03-13 17:52:52Info| Fin lectura del body .html
+2023-03-14 12:51:09Info| Inicio de validacion del archivo
+2023-03-14 12:51:09Info| Fin  de validacion del archivo
+2023-03-14 12:51:09Info| Inicio de obtención de correos
+2023-03-14 12:51:09Info| Fin de obtención de correos
+2023-03-14 12:51:09Info| Inicio lectura del body .html
+2023-03-14 12:51:09Info| Fin lectura del body .html
+2023-03-14 13:01:44Info| Inicio de validacion del archivo
+2023-03-14 13:01:44Info| Fin  de validacion del archivo
+2023-03-14 13:01:44Info| Inicio de obtención de correos
+2023-03-14 13:01:44Info| Fin de obtención de correos
+2023-03-14 13:01:44Info| Inicio lectura del body .html
+2023-03-14 13:01:44Info| Fin lectura del body .html

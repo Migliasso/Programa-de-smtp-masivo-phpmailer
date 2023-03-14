@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.navegador ul {
+    display: block;
+    float: right;
+    /* margin: 11px 270px; */
+    margin-right: 12px;
+    margin-top: 3px;
+    padding: 0px;
+}
+
+.navegador ul li {
+    float: right;
+    margin-left: 35px;
+}
+
+.navegador ul a {
+    color: black;
+}
+
+.navegador ul a:hover{
+    color: #999;
+}
+
+.navegador img{
+    height: 55px;
+    margin: 5px;
+}

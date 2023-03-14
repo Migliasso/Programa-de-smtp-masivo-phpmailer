@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+
+
+.body2 {
+    /* background-image: url(img/fondo.png); */
+    background-color: #efefefc6;
+    background-position: center top;
+    background-repeat: no-repeat;
+
+}
+
+.main2 {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2 {
+    background-image: url(img/login-bg-gorec.png);
+    background-color:rgba(255, 255, 255, 0.589) ;
+    background-repeat:no-repeat;
+    background-size: 440px 370px;
+
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    width: 550px;
+    height: 350px;
+    padding: 8px;
+    margin-bottom:150px ;
+
+    box-shadow: 1px 5px 9px #999;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-botones2 {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.container-p2 {
+    margin: 20px;
+    color: #1a3c99;
+    display: flex;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+.container-p2 img {
+    height: auto;
+    width: 42px;
+    margin: 2px;
+}
+
+.container-botones2 a {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    color: #3165f4;
+    font-size: 25px;
+    border: 1px solid #999;
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 10px 60px;
+    margin: 15px;
+    box-shadow: 0px 0px 5px #999;
+}
+
+.container-botones2 a:hover {
+    background-color: #e5e2e2a7;
+    color: #1a3c99;
+}

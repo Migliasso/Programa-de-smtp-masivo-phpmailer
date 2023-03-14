@@ -1,0 +1,7 @@
+2023-03-13 17:51:36Info| Correo a correos@gmail.com enviado exitosamente
+2023-03-13 17:52:55Info| Correo a hernanmigliasso98@gmail.com enviado exitosamente
+2023-03-13 17:52:57Info| Correo a jticse@ryaco.com enviado exitosamente
+2023-03-14 12:51:13Info| Correo a hernanmigliasso98@gmail.com enviado exitosamente
+2023-03-14 12:51:16Info| Correo a jticse@ryaco.com enviado exitosamente
+2023-03-14 13:01:47Info| Correo a hernanmigliasso98@gmail.com enviado exitosamente
+2023-03-14 13:01:50Info| Correo a jticse@ryaco.com enviado exitosamente
